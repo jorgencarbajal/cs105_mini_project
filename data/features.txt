@@ -1,0 +1,175 @@
+1. [A] Timestamp
+2. [B] What class are you filling out this survey for? Check all that apply. If none of the listed options apply, select "Other" and enter your class name (for example, CS105).
+3. [C] What is your current class standing?
+4. [D] Are you a transfer student?
+5. [E] What is your major/minor? (If your major is not listed, please write it in "Other..")
+6. [F] Rank the following reasons on why you chose CS (CSBA) or DS as your major or minor. [Interest in technology and problem-solving]
+7. [G] Rank the following reasons on why you chose CS (CSBA) or DS as your major or minor. [Fascination with data analysis and decision-making]
+8. [H] Rank the following reasons on why you chose CS (CSBA) or DS as your major or minor. [Enjoyment of coding, programming, and building applications]
+9. [I] Rank the following reasons on why you chose CS (CSBA) or DS as your major or minor. [Strong job prospects and high earning potential]
+10. [J] Rank the following reasons on why you chose CS (CSBA) or DS as your major or minor. [Encouragement or advice from family members, mentors, or educators]
+11. [K] Rank the following reasons on why you chose CS (CSBA) or DS as your major or minor. [Pressure from family members]
+12. [L] Rank the following reasons on why you chose CS (CSBA) or DS as your major or minor. [One or more of my family members or friends work in this area]
+13. [M] Have you ever thought about changing your major? If so, what were the reasons? Choose all that apply.
+14. [N] What is your current cumulative GPA?
+15. [O] What is your age? Answer with a number only.
+16. [P] What is your height (in inches)? Answer with a number only. If you prefer not to say, type "N/A."
+17. [Q] What is your ethnicity?
+18. [R] What gender do you identify as?
+19. [S] How many languages can you speak (not programming languages)
+20. [T] Do you have a hobby? If so, please share it below.
+21. [U] How far is your commute to UCR (in miles)? Answer with a number only.
+22. [V] How much time do you spend commuting to and from all your school-related destinations in a day (in minutes)?
+23. [W] Would any of the following cause you to skip a lecture? [Feeling sick]
+24. [X] Would any of the following cause you to skip a lecture? [Feeling physically tired]
+25. [Y] Would any of the following cause you to skip a lecture? [Feeling mentally tired]
+26. [Z] Would any of the following cause you to skip a lecture? [Don't like attending]
+27. [AA] How soon after waking up do you check your phone?
+28. [AB] How many minutes pass when you plan to go to sleep vs when you actually fell asleep on days with no assignment due and days with an assignment due at 11:59? [Assignment due at 11:59]
+29. [AC] How many minutes pass when you plan to go to sleep vs when you actually fell asleep on days with no assignment due and days with an assignment due at 11:59? [No assignment due]
+30. [AD] Over the past week, rate how alert you felt during each class during mornings, afternoons, and evenings (1 = barely awake, 5 = fully alert) [Morning]
+31. [AE] Over the past week, rate how alert you felt during each class during mornings, afternoons, and evenings (1 = barely awake, 5 = fully alert) [Afternoon]
+32. [AF] Over the past week, rate how alert you felt during each class during mornings, afternoons, and evenings (1 = barely awake, 5 = fully alert) [Evening]
+33. [AG] How many milligrams of caffeine do you consume per day, on average? For example, an 8-oz cup of coffee contains 95 mg, a shot of espresso - 64 mg, a can of Celsius - 200 mg, and a can of Coca Cola contains 34 mg. Answer with a number only.
+34. [AH] If you procrastinate, what do you typically spend your time doing? [Sleeping/Napping]
+35. [AI] If you procrastinate, what do you typically spend your time doing? [Hanging out with friends]
+36. [AJ] If you procrastinate, what do you typically spend your time doing? [Completing easier assignments]
+37. [AK] If you procrastinate, what do you typically spend your time doing? [Watching Shows/Movies]
+38. [AL] If you procrastinate, what do you typically spend your time doing? [Social Media (Instagram, TikTok, etc.)]
+39. [AM] If you procrastinate, what do you typically spend your time doing? [Gaming]
+40. [AN] How would you rate your stress level this quarter?
+41. [AO] How many hours on an average week do you spend doing the following? [Working a paid job?]
+42. [AP] How many hours on an average week do you spend doing the following? [Being the primary non paid caregiver to another person?]
+43. [AQ] How many hours on an average week do you spend doing the following? [Commuting to and from school?]
+44. [AR] How many hours on an average week do you spend doing the following? [Going to the gym?]
+45. [AS] How many hours on an average week do you spend doing the following? [Playing video games?]
+46. [AT] How many hours on an average week do you spend doing the following? [Scrolling on social media?]
+47. [AU] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Software Engineering]
+48. [AV] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Web Development]
+49. [AW] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Data Science]
+50. [AX] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Computer security and cryptography]
+51. [AY] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Databases]
+52. [AZ] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Algorithms]
+53. [BA] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Game Development]
+54. [BB] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Networks]
+55. [BC] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Machine Learning, Data Mining, NLP, AI]
+56. [BD] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Computer Architecture]
+57. [BE] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Embedded systems]
+58. [BF] Rank your top 3 preferred domains of interest in computer science? For options not chosen, select "Not applicable." [Computer Graphics]
+59. [BG] How far in advance do you typically begin working on or studying for the following types of assignments? [Homework]
+60. [BH] How far in advance do you typically begin working on or studying for the following types of assignments? [Quizzes]
+61. [BI] How far in advance do you typically begin working on or studying for the following types of assignments? [Exams/Midterms]
+62. [BJ] How far in advance do you typically begin working on or studying for the following types of assignments? [Final Exams]
+63. [BK] How far in advance do you typically begin working on or studying for the following types of assignments? [Individual Projects]
+64. [BL] How far in advance do you typically begin working on or studying for the following types of assignments? [Group Projects]
+65. [BM] How far in advance do you typically begin working on or studying for the following types of assignments? [Essays/Research Papers]
+66. [BN] How many browser tabs do you typically have open while studying?
+67. [BO] How many applications or websites do you typically use for a single course?
+68. [BP] Approximately how many total hours have you spent so far this quarter learning or practicing skills related to your major outside of activities required for your courses?
+69. [BQ] Which of the following activities have you done this quarter OR prior to this quarter, outside of activities required for your courses, to learn or practice skills related to your major? Select all that apply.
+70. [BR] How satisfied are you with your grades so far this quarter?
+71. [BS] If you have been working on a homework problem for 15 minutes without making any progress, what action are you most likely to take in each of the following scenarios? [When you have more than enough time to finish your assignment before the deadline]
+72. [BT] If you have been working on a homework problem for 15 minutes without making any progress, what action are you most likely to take in each of the following scenarios? [When you have just enough time to finish your assignment before the deadline]
+73. [BU] If you have been working on a homework problem for 15 minutes without making any progress, what action are you most likely to take in each of the following scenarios? [When you don’t have enough time to finish your assignment before the deadline]
+74. [BV] When you find it difficult to understand course material, which resources do you usually turn to for help first? [Math]
+75. [BW] When you find it difficult to understand course material, which resources do you usually turn to for help first? [Natural Science]
+76. [BX] When you find it difficult to understand course material, which resources do you usually turn to for help first? [Computer Science]
+77. [BY] When you find it difficult to understand course material, which resources do you usually turn to for help first? [Social Science]
+78. [BZ] When you find it difficult to understand course material, which resources do you usually turn to for help first? [Humanities]
+79. [CA] How often do you use AI for the following: [Reviewing Lecture slides]
+80. [CB] How often do you use AI for the following: [Completing coding assignments]
+81. [CC] How often do you use AI for the following: [Completing homework for STEM related subjects (ex. Math or Physics)]
+82. [CD] How often do you use AI for the following: [Completing writing based assignments (ex. English or Psychology)]
+83. [CE] How often do you use AI for the following: [Reviewing tests to understand how you made a calculation mistake (ex. Math or Physics]
+84. [CF] How often do you use AI for the following: [Reviewing written works or tests to understand where you made a mistake or can improve (ex. English or Psychology)]
+85. [CG] How often do you use AI for the following: [Asking Questions/Clarifying]
+86. [CH] How often do you use AI for the following: [Asking for definitions]
+87. [CI] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [Without AI : Writing essays]
+88. [CJ] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [Without AI : Solving math problem]
+89. [CK] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [Without AI : Completing coding assignments]
+90. [CL] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [Without AI : Brainstorming ideas]
+91. [CM] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [With AI : Writing essays]
+92. [CN] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [With AI : Solving math problem]
+93. [CO] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [With AI : Completing coding assignments]
+94. [CP] On a scale of 1 to 5, how confident are you in your ability to complete the problems in your regular coursework with and without the assistance of artificial intelligence? (1 being not confident, 5 being very confident) [With AI : Brainstorming ideas]
+95. [CQ] How often do you stop studying to check your phone?
+96. [CR] How often do the following statements apply to you? [I stay up past my usual bedtime to finish assignments or study.]
+97. [CS] How often do the following statements apply to you? [I miss the deadlines of my assignments and turn them in late.]
+98. [CT] How often do the following statements apply to you? [For big assignments, I complete a majority of the work near the deadline.]
+99. [CU] How often do the following statements apply to you? [I find myself relying on AI more after I procrastinate]
+100. [CV] How often do you use AI for the following tasks: [Written response prompt]
+101. [CW] How often do you use AI for the following tasks: [Coding assignments]
+102. [CX] How often do you use AI for the following tasks: [Math based questions]
+103. [CY] How often do you use AI for the following tasks: [Creating Slide shows from scratch]
+104. [CZ] How often do you use AI for the following tasks: [Summarizing assigned readings for Social Sciences]
+105. [DA] How often do you use AI for the following tasks: [Summarizing slides]
+106. [DB] How often do you use AI for the following tasks: [Checking assignments after you complete Hw]
+107. [DC] How often do you use AI for the following tasks: [Review for exams]
+108. [DD] Which of the following best describes the main reason you use AI for schoolwork, or the main reason you don’t
+109. [DE] When you are working on a homework assignment, how much does each of these keep you from using AI? [I want to learn the material myself]
+110. [DF] When you are working on a homework assignment, how much does each of these keep you from using AI? [I need to be able to do it without AI later]
+111. [DG] When you are working on a homework assignment, how much does each of these keep you from using AI? [I don’t trust its answers]
+112. [DH] When you are working on a homework assignment, how much does each of these keep you from using AI? [My class rules don't allow it]
+113. [DI] When you are working on a homework assignment, how much does each of these keep you from using AI? [I feel like I am cheating]
+114. [DJ] When you are working on a homework assignment, how much does each of these keep you from using AI? [I don't know how to use it well]
+115. [DK] Which of the following time-management tasks have you used AI for? (Check all that apply)
+116. [DL] How frequently do you use AI tools for each task? [Understanding course material (explaining concepts, summarizing readings)]
+117. [DM] How frequently do you use AI tools for each task? [Brainstorming or outlining ideas]
+118. [DN] How frequently do you use AI tools for each task? [Polishing my own writing (grammar, rephrasing)]
+119. [DO] How frequently do you use AI tools for each task? [Generating a draft or solution (essays, code, problem sets)]
+120. [DP] How frequently do you use AI tools for each task? [Completing exams or graded take-home assessments]
+121. [DQ] How frequently do you use AI tools for each task? [Detecting AI Usage]
+122. [DR] To what extent do you agree with the following statements? [AI allows me to stay focused on complex tasks for longer stretches of time without burning out.]
+123. [DS] To what extent do you agree with the following statements? [Correcting AI hallucinations and mistakes takes up more time than doing the work manually.]
+124. [DT] To what extent do you agree with the following statements? [I waste significant time tweaking prompts to get the exact answer I want.]
+125. [DU] Which language models do you use and how often do you use them? [Claude]
+126. [DV] Which language models do you use and how often do you use them? [ChatGPT]
+127. [DW] Which language models do you use and how often do you use them? [Gemini]
+128. [DX] Which language models do you use and how often do you use them? [Copilot]
+129. [DY] Which language models do you use and how often do you use them? [Deepseek]
+130. [DZ] Which language models do you use and how often do you use them? [Grok]
+131. [EA] Which language models do you use and how often do you use them? [Perplexity]
+132. [EB] What is the highest monthly subscription fee you would pay to use an AI model if there were no free options? (numerical answer only)?
+133. [EC] How comfortable are you with a professor using AI for each task? [Creating Practice Problems]
+134. [ED] How comfortable are you with a professor using AI for each task? [Detecting AI Usage]
+135. [EE] How comfortable are you with a professor using AI for each task? [Answering Emails]
+136. [EF] How comfortable are you with a professor using AI for each task? [Grading]
+137. [EG] How comfortable are you with a professor using AI for each task? [Creating Lecture Materials]
+138. [EH] How comfortable are you with a professor using AI for each task? [Writing Exam Questions]
+139. [EI] How willing are you to accept the following technologies in your daily life? 1 = Very unwilling 2 = Somewhat unwilling 3 = Neutral 4 = Somewhat willing 5 = Very willing [Surveillance Cameras (Flock, Traffic Cameras)]
+140. [EJ] How willing are you to accept the following technologies in your daily life? 1 = Very unwilling 2 = Somewhat unwilling 3 = Neutral 4 = Somewhat willing 5 = Very willing [Smart Home Devices (Alexa, Google Home)]
+141. [EK] How willing are you to accept the following technologies in your daily life? 1 = Very unwilling 2 = Somewhat unwilling 3 = Neutral 4 = Somewhat willing 5 = Very willing [AI Assistants (ChatGPT, Claude)]
+142. [EL] How willing are you to accept the following technologies in your daily life? 1 = Very unwilling 2 = Somewhat unwilling 3 = Neutral 4 = Somewhat willing 5 = Very willing [Self Driving Vehicles (Waymo, Tesla FSD)]
+143. [EM] How willing are you to accept the following technologies in your daily life? 1 = Very unwilling 2 = Somewhat unwilling 3 = Neutral 4 = Somewhat willing 5 = Very willing [AI-powered Algorithms (Youtube, Spotify, TikTok)]
+144. [EN] How concerned are you about each of the following when using AI tools or services? 1 = Not at all concerned 2 = Slightly concerned 3 = Very concerned [Hackers accessing personal information I share with AI tools]
+145. [EO] How concerned are you about each of the following when using AI tools or services? 1 = Not at all concerned 2 = Slightly concerned 3 = Very concerned [Companies using my AI conversations to target me with personalized ads]
+146. [EP] How concerned are you about each of the following when using AI tools or services? 1 = Not at all concerned 2 = Slightly concerned 3 = Very concerned [AI services tracking my location even when I am not actively using them]
+147. [EQ] How concerned are you about each of the following when using AI tools or services? 1 = Not at all concerned 2 = Slightly concerned 3 = Very concerned [Being unable to permanently remove information I previously shared with an AI service:]
+148. [ER] When using websites or apps, do you take any of the following steps to protect your personal information? (Select all that apply)
+149. [ES] Part a: How willing would you be to use this robot?
+150. [ET] Part b: If you have any reservations, what are they? (Select all that apply)
+151. [EU] Rank how comfortable you are with companies collecting the following: 1 = Not at all comfortable 2 = Slightly uncomfortable 3 = Neutral 4 = Slightly comfortable 5 = Very comfortable [Voice recordings]
+152. [EV] Rank how comfortable you are with companies collecting the following: 1 = Not at all comfortable 2 = Slightly uncomfortable 3 = Neutral 4 = Slightly comfortable 5 = Very comfortable [Writing habits]
+153. [EW] Rank how comfortable you are with companies collecting the following: 1 = Not at all comfortable 2 = Slightly uncomfortable 3 = Neutral 4 = Slightly comfortable 5 = Very comfortable [Real-time location information]
+154. [EX] Rank how comfortable you are with companies collecting the following: 1 = Not at all comfortable 2 = Slightly uncomfortable 3 = Neutral 4 = Slightly comfortable 5 = Very comfortable [Face ID or Fingerprint]
+155. [EY] Rank how comfortable you are with companies collecting the following: 1 = Not at all comfortable 2 = Slightly uncomfortable 3 = Neutral 4 = Slightly comfortable 5 = Very comfortable [Browsing history]
+156. [EZ] During the past 7 days, on how many days did you use AI for each of the following tasks? [Explain a course concept I didn’t understand]
+157. [FA] During the past 7 days, on how many days did you use AI for each of the following tasks? [Generate practice questions]
+158. [FB] During the past 7 days, on how many days did you use AI for each of the following tasks? [Check the answers I had already completed]
+159. [FC] During the past 7 days, on how many days did you use AI for each of the following tasks? [Write a complete assignment for me]
+160. [FD] During the past 7 days, on how many days did you use AI for each of the following tasks? [Generate a solution to a homework problem]
+161. [FE] During the past 7 days, on how many days did you use AI for each of the following tasks? [Have conversation for companionship]
+162. [FF] During the past 7 days how much did you experience each of the following, on a scale of 1-5? [Worry about academic performance]
+163. [FG] During the past 7 days how much did you experience each of the following, on a scale of 1-5? [Stress about coursework]
+164. [FH] During the past 7 days how much did you experience each of the following, on a scale of 1-5? [Loneliness]
+165. [FI] When you needed help with the following tasks during the past 7 days, how often did you consult AI without consulting your professor or TA? [Understanding a course concept]
+166. [FJ] When you needed help with the following tasks during the past 7 days, how often did you consult AI without consulting your professor or TA? [Understanding what an assignment is asking]
+167. [FK] When you needed help with the following tasks during the past 7 days, how often did you consult AI without consulting your professor or TA? [Figuring out how to solve a problem]
+168. [FL] During the past 7 days how worried did you feel about doing each of the following without AI assistance on a scale of 1-5? [Solving a homework problem]
+169. [FM] During the past 7 days how worried did you feel about doing each of the following without AI assistance on a scale of 1-5? [Completing a whole assignment]
+170. [FN] During the past 7 days how worried did you feel about doing each of the following without AI assistance on a scale of 1-5? [Understanding a course concept]
+171. [FO] How much do you agree with this statement? “During this week, AI has helped me feel less stressed/anxious about my coursework.”
+172. [FP] In the past 7 days, on how many days did you use AI tools for schoolwork? Choose number of days 1-7:
+173. [FQ] In the past 7 days, approximately how many minutes in total did you spend actively using AI tools for schoolwork? Enter 0 if you did not use AI. Total minutes:
+174. [FR] What was your main reason for using AI for schoolwork in the past 7 days? Select one.
+175. [FS] Of the assignments due in the past 7 days, how many did you submit on time? Count assignments from all your courses. If no assignments were due type 'NA', otherwise answer using the following format: Total assignments due ; Assignments submitted on time ex: 5 ; 3
