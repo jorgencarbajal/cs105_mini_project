@@ -1,3 +1,7 @@
+"""
+This file simply converts the xlsx to csv
+"""
+
 import pandas as pd
 from pathlib import Path
 
