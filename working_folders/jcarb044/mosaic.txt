@@ -1,0 +1,23 @@
+73. [BU] If you have been working on a homework problem for 15 minutes without making any progress, what action are you most likely to take in each of the following scenarios? [When you don’t have enough time to finish your assignment before the deadline]
+
+99. [CU] How often do the following statements apply to you? [I find myself relying on AI more after I procrastinate]
+
+
+What we suspect
+
+We think running out of time pushes students to lean on AI. We expect students who rely on AI more after procrastinating to be more likely to ask AI for the full solution when they're stuck without enough time, using it as an answer key instead of a tutor.
+
+Our analysis
+
+We grouped the procrastination answers into Never/Rarely, Sometimes, and Often/Always, and the "not enough time" answers into No AI (trying on my own, asking a classmate or TA, leaving it incomplete), AI hint, and AI full solution. We compared the groups with a mosaic plot, then tested "AI full solution vs. everything else" with a chi-squared test of independence (78 students answered both questions).
+
+Findings
+
+- Never/Rarely (n = 23): 43% No AI, 43% AI hint, 13% AI full solution.
+- Sometimes (n = 31): 16% No AI, 65% AI hint, 19% AI full solution.
+- Often/Always (n = 24): 4% No AI, 50% AI hint, 46% AI full solution.
+- Chi-squared: χ² = 7.69, df = 2, p = 0.021, significant at α = 0.05.
+
+Conclusion
+
+Students who rely on AI more after procrastinating are much more likely to use it as an answer key when time runs out: 46% of them ask for the full solution, compared with 13% of students who rarely or never do this. Time pressure doesn't just make students use AI, it changes how they use it, from a tutor to an answer key, especially for students who procrastinate.
