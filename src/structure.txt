@@ -30,8 +30,10 @@ Where things go
 - Each Viz code cell: only the computations for that chart (crosstabs, percentages, medians) + the plot.
 - Each Hypothesis code cell: only the statistical test.
 
-jcarb044 pieces
+Example:
+
+jcarb044
 - Data Cleaning: AI-reliance score, reason groups (violin), CU/BU groupings (mosaic), apostrophe fix
 - Viz 1: violin plot
 - Viz 4: mosaic plot (crosstab + percentages)
-- Hypotheses: Spearman correlation (violin), chi-squared (mosaic)
+- Hypotheses: chi-squared (mosaic)

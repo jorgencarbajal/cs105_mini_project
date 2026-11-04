@@ -9,15 +9,15 @@ We think running out of time pushes students to lean on AI. We expect students w
 
 Our analysis
 
-We grouped the procrastination answers into Never/Rarely, Sometimes, and Often/Always, and the "not enough time" answers into No AI (trying on my own, asking a classmate or TA, leaving it incomplete), AI hint, and AI full solution. We compared the groups with a mosaic plot, then tested "AI full solution vs. everything else" with a chi-squared test of independence (78 students answered both questions).
+We grouped the procrastination answers into Never/Rarely, Sometimes, and Often/Always, and the "not enough time" answers into No AI (trying on my own, asking a classmate or TA, leaving it incomplete), AI hint, and AI full solution. We compared the groups with a mosaic plot, then ran a chi-squared test of independence on the full 3x3 table (85 students answered both questions; every expected count is at least 5).
 
 Findings
 
-- Never/Rarely (n = 23): 43% No AI, 43% AI hint, 13% AI full solution.
-- Sometimes (n = 31): 16% No AI, 65% AI hint, 19% AI full solution.
-- Often/Always (n = 24): 4% No AI, 50% AI hint, 46% AI full solution.
-- Chi-squared: χ² = 7.69, df = 2, p = 0.021, significant at α = 0.05.
+- Never/Rarely (n = 28): 50% No AI, 39% AI hint, 11% AI full solution.
+- Sometimes (n = 32): 16% No AI, 66% AI hint, 19% AI full solution.
+- Often/Always (n = 25): 4% No AI, 52% AI hint, 44% AI full solution.
+- Chi-squared: χ² = 21.92, df = 4, critical value = 9.49, p = 0.0002, significant at α = 0.05.
 
 Conclusion
 
-Students who rely on AI more after procrastinating are much more likely to use it as an answer key when time runs out: 46% of them ask for the full solution, compared with 13% of students who rarely or never do this. Time pressure doesn't just make students use AI, it changes how they use it, from a tutor to an answer key, especially for students who procrastinate.
+Students who rely on AI more after procrastinating are much more likely to use it as an answer key when time runs out: 44% of them ask for the full solution, compared with 11% of students who rarely or never do this. Time pressure doesn't just make students use AI, it changes how they use it, from a tutor to an answer key, especially for students who procrastinate.
