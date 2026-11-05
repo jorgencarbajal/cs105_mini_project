@@ -1,0 +1,29 @@
+Visualization 1: Heatmap — What Do Students Use AI For Most?
+
+Survey Question
+
+How often do you use AI in the given examples to study?
+
+What we suspect
+
+We think students are more likely to use AI frequently for asking questions, finding definitions, and reviewing mistakes in their work than for completing STEM homework or writing-based assignments.
+
+Our analysis
+
+We compared the frequency of AI use across eight study activities. We grouped responses into Very Often, Sometimes, Rarely, Don't Use AI, and Prefer Not to Answer. We then calculated the percentage of students selecting each response and displayed the results using a heatmap.
+
+Findings
+
+93.1% of students use AI very often or sometimes for asking questions or clarifying concepts.
+
+86.2% use AI very often or sometimes for reviewing calculation mistakes.
+
+75.9% use AI very often or sometimes for asking for definitions.
+
+56.9% use AI very often or sometimes for STEM homework.
+
+39.7% use AI very often or sometimes for writing assignments.
+
+Conclusion
+
+Students use AI more frequently for understanding concepts and reviewing mistakes than for completing assignments directly. Asking questions and reviewing calculation mistakes are among the most common uses of AI.

@@ -1,0 +1,27 @@
+Visualization 2: 100% Stacked Bar Chart — Deadline Pressure and AI Use
+
+Survey Question
+
+If you have been working on a homework problem for 15 minutes without making any progress, what action are you most likely to take when you have more than enough time, just enough time, or not enough time before the deadline?
+
+What we suspect
+
+We think students are more likely to ask AI for hints, explanations, or complete solutions as deadline pressure increases, rather than continuing to solve problems independently.
+
+Our analysis
+
+We compared students' preferred homework strategies under three different deadline scenarios. We calculated the percentage of students choosing each strategy and displayed the results using a 100% stacked bar chart to show how the distribution of responses changes as available time decreases.
+
+Findings
+
+When students have more than enough time, 27.1% prefer AI assistance.
+
+When students have just enough time, 52.5% prefer AI assistance.
+
+When students do not have enough time, 83.1% prefer AI assistance.
+
+The percentage choosing to work independently decreases from 50.8% to 1.7% between the first and last scenarios.
+
+Conclusion
+
+Students are increasingly likely to choose AI assistance as deadline pressure increases. The results suggest an association between having less time to complete homework and a greater preference for AI assistance.
