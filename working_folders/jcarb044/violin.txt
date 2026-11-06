@@ -7,8 +7,6 @@
 85. [CG] How often do you use AI for the following: [Asking Questions/Clarifying]
 86. [CH] How often do you use AI for the following: [Asking for definitions]
 
-108. [DD] Which of the following best describes the main reason you use AI for schoolwork, or the main reason you don’t
-
 109. [DE] When you are working on a homework assignment, how much does each of these keep you from using AI? [I want to learn the material myself]
 
 111. [DG] When you are working on a homework assignment, how much does each of these keep you from using AI? [I don’t trust its answers]
@@ -18,21 +16,21 @@
 
 What we suspect
 
-Students give different reasons for holding back from AI. Some are internal (wanting to learn the material, not trusting AI's answers) and some are external (class rules). We expect that students who say a reason holds them back more will use AI less. We want to see whether that holds for both kinds of reasons, or only some.
+We compared how much each of three reasons keeps students from using AI: two that come from the student ("I want to learn the material myself," "I don't trust its answers") and one that comes from the class ("My class rules don't allow it"). We expect that the more a student says a reason holds them back, the less they use AI, and we want to see if that holds for all three reasons.
 
 Our analysis
 
-We built an AI-reliance score (0–3) from 8 questions about how often students use AI for different tasks. For each reason, we split students into groups by how strongly they say it holds them back and compared their scores with violin plots. We then tested each relationship with a Spearman correlation.
+We built an AI-reliance score (0-3) by turning the 8 [CA]-[CH] answers into numbers and averaging them (85 students have a score). For each reason, we combined "Not at all" with "A little," split students into three groups by how much that reason holds them back, and compared their scores with violin plots. No hypothesis test for this graph, just the plot and a light interpretation.
 
-Findings
+Findings (median AI-reliance score for each group)
 
-- "I want to learn the material myself": scores drop as the reason gets stronger (median 2.31 → 1.75 → 1.56; ρ = −0.36, p = 0.001).
-- "I don't trust its answers": the same pattern, even steeper (2.06 → 1.75 → 0.88; ρ = −0.35, p = 0.002).
-- "My class rules don't allow it": littleρ = −0.14, p = 0.24, not significant).
+- "I want to learn the material myself": 2.25 -> 1.75 -> 1.38 (n = 23, 25, 36). Scores drop as the reason gets stronger.
+- "I don't trust its answers": 2.00 -> 1.75 -> 0.50 (n = 40, 32, 12). Same pattern, even steeper, but only 12 students said "A lot."
+- "My class rules don't allow it": 1.38 -> 1.75 -> 1.75 (n = 29, 26, 28). Scores don't drop, if anything they go up slightly.
 
 Conclusion
 
-Taking students' answers at face value, tusing AI less are personal beliefs, notrules. Students who want to learn the material themselves or don't trust AI use it noticeably less, while students who say class rules hold them back use itse. Personal reasons reduce AI use butdon't eliminate it; even the most committed students still use AI between "rarely" and "sometimes."
+A student's own reasons line up with how much they use AI, while class rules don't seem to. Students who want to learn the material themselves or don't trust AI's answers use it noticeably less, while students who say class rules hold them back use it about as much as everyone else.
 
 
 
@@ -45,4 +43,3 @@ We want to understand the reasons some students use AI more than others. Through
 For each of these reasons we have a panel, and within each panel, students are split into groups based on how much they say that reason holds them back (not at all / a little, somewhat, a lot). Each group gets its own violin showing the spread of their AI-reliance scores. This way we can get an idea of whether what students say holds them back actually matches how much they use AI.
 
 In the end, we suspect that students who genuinely want to learn the material will drop off in reliance score as we move from "not at all / a little" to "a lot." For the external reason (class rules), we suspect the violins will stay about the same, meaning a rule on its own doesn't change how much students use AI.
-

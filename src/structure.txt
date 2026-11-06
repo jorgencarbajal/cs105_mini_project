@@ -1,0 +1,39 @@
+src/main.ipynb structure (follows the project PDF)
+
+Topic Overview                     [md]
+Q1: What data do we have?          [md]
+Q2: What would we like to know?    [md]
+Data Cleaning                      [md] + [code]  -> builds the cleaned df used by everything below (this may need to be split into sections for each visual)
+
+EDA I. Visualizations (x8, at least 6 types)
+  Viz N: <title>
+    1. What we want to show/learn  [md]
+    2. Computations + plot         [code]
+    3. Interpretation              [md]
+
+EDA II. Hypotheses (x3, including a correlation and a chi-squared)
+  H N: <statement>
+    1. Test + justification        [md]
+    2. Run the test                [code]
+    3. Result + conclusion         [md]
+
+Overall Conclusion                 [md]
+Group Contributions                [md]
+
+
+Where things go
+
+- Data Cleaning (code): load the csv, keep only the columns we use, fix the curly apostrophe,
+  handle missing values, and do all recoding (answer groupings, 0-3 scales, AI-reliance score).
+  The PDF says to "create your own dataset (remove all columns that you won't need, clean the
+  data that you plan to analyze)", so this happens once, up front.
+- Each Viz code cell: only the computations for that chart (crosstabs, percentages, medians) + the plot.
+- Each Hypothesis code cell: only the statistical test.
+
+Example:
+
+jcarb044
+- Data Cleaning: AI-reliance score, reason groups (violin), CU/BU groupings (mosaic), apostrophe fix
+- Viz 1: violin plot
+- Viz 4: mosaic plot (crosstab + percentages)
+- Hypotheses: chi-squared (mosaic)
