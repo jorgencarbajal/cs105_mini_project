@@ -1,29 +1,48 @@
 Visualization 1: Heatmap — What Do Students Use AI For Most?
 
-Survey Question
-
+Survey Question:
 How often do you use AI in the given examples to study?
 
-What we suspect
+What we suspect:
+We think students are more likely to use AI frequently for asking questions, finding definitions, and reviewing mistakes in their work than for completing coding, STEM homework, or writing-based assignments.
 
-We think students are more likely to use AI frequently for asking questions, finding definitions, and reviewing mistakes in their work than for completing STEM homework or writing-based assignments.
+Our analysis:
+We used responses from eight survey questions about how frequently students use AI for different study activities. Seven activities contain 86 responses each, while asking for definitions contains 85 responses.
 
-Our analysis
+We compared the frequency of AI use across these eight study activities. We grouped responses into Very Often, Sometimes, Rarely, Don't Use AI, and Prefer Not to Answer. We then calculated the percentage of students selecting each response and displayed the results using a heatmap.
+Findings:
+- 80.3% of students use AI very often or sometimes for asking questions or clarifying concepts.
+- 70.9% use AI very often or sometimes for reviewing calculation mistakes.
+- 65.9% use AI very often or sometimes for asking for definitions.
+- 48.8% use AI very often or sometimes for STEM homework.
+- 38.4% use AI very often or sometimes for completing coding assignments.
+- 32.6% use AI very often or sometimes for writing assignments.
 
-We compared the frequency of AI use across eight study activities. We grouped responses into Very Often, Sometimes, Rarely, Don't Use AI, and Prefer Not to Answer. We then calculated the percentage of students selecting each response and displayed the results using a heatmap.
+Conclusion:
+Students use AI more frequently for understanding concepts and reviewing mistakes than for completing assignments directly. Asking questions and reviewing calculation mistakes are among the most common uses of AI. The results support our hypothesis.
 
-Findings
+---
 
-93.1% of students use AI very often or sometimes for asking questions or clarifying concepts.
+Hypothesis: Spearman Correlation Test
 
-86.2% use AI very often or sometimes for reviewing calculation mistakes.
+What we suspect:
+We think students who frequently use AI for asking questions and clarifying concepts are also more likely to use AI frequently for reviewing calculation mistakes.
 
-75.9% use AI very often or sometimes for asking for definitions.
+Our analysis:
+We converted students' AI usage frequency responses into numerical values from 0 to 3, where 0 means "I don't use AI for this" and 3 means "I use it very often." We excluded missing responses and students who preferred not to answer.
+We then used Spearman's rank correlation to test whether there is a relationship between these two study activities because the survey responses are ordered categories.
 
-56.9% use AI very often or sometimes for STEM homework.
+Null Hypothesis (H0):
+There is no monotonic correlation between how frequently students use AI for asking questions and reviewing calculation mistakes.
 
-39.7% use AI very often or sometimes for writing assignments.
+Alternative Hypothesis (H1):
+There is a monotonic correlation between the two study activities.
 
-Conclusion
+Findings:
+- Valid paired responses: 83
+- Spearman correlation coefficient: 0.585
+- P-value: p < 0.0001
+- Significance level: 0.05
 
-Students use AI more frequently for understanding concepts and reviewing mistakes than for completing assignments directly. Asking questions and reviewing calculation mistakes are among the most common uses of AI.
+Conclusion:
+Since the p-value is smaller than 0.05, we reject the null hypothesis. The results indicate a statistically significant, moderate positive correlation between students' frequency of using AI for asking questions and reviewing calculation mistakes. This suggests that students who frequently use AI for one activity also tend to use it frequently for the other, but it does not prove causation.
