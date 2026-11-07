@@ -10,6 +10,11 @@ Note that Median was used over Mean due to a number of outliers in the data set
 Hypothesis: 
 Students who feel that AI helps reduce stress while doing schoolwork are more likely to use AI, and students who are more stressed during the week are more likely to feel that AI helps them. Students who disagree that AI reduces their stress use AI the least.
 
+Data Cleaning:
+Here I pulled data from three questions: how much users agree AI decreased stress, their actual stress levels, and the amount of AI used in the last 7 days. 
+I numerized the response on the scale from strong disagree to strong agree from 1-5 to plot it on the graph. 
+I bubbled similar answers together for the question of if they agreed AI decreased stress and plotted it with the x-axis representing the stress levels and y-axis representing the amount of AI used in the last 7 days.
+
 Analysis:
 53 students answered both the AI-and-stress question and the minutes question. 
 33 of them (62%) agreed or strongly agreed that AI helped them feel less stressed, 15 were neutral, and only 5 disagreed or strongly disagreed. 
@@ -18,5 +23,6 @@ This directly shows that students who believed that AI reduced workload stress t
 Although this might not have been the only factor contributing to the increase of AI usage, there is a strong correlation in the visualization that implies that it could have influenced it.
 
 Conclusion: 
-Students who agree that AI helps them feel less stressed use AI more than students who feel neutral about it. The more a student agrees that AI makes their schoolwork less stressful the more minutes they tend to have using AI. 
+Students who agree that AI helps them feel less stressed use AI more than students who feel neutral about it. 
+The more a student agrees that AI makes their schoolwork less stressful the more minutes they tend to have using AI. 
 The groups who disagree are too small to draw any sizable conclusions from.

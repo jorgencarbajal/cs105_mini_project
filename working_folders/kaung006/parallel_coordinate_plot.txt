@@ -1,0 +1,33 @@
+Minutes using AI Relative to Time Spent Procrasinating
+
+Graph Type: 
+Parallel Coordinate Plot
+
+Description: 
+This parallel coordinate plot compares minutes of AI used with time spent procrastinating with each line representing one student and each axis representing a different type of procrastination: sleeping/napping, hanging out with friends, completing easier or other assignments, watching shows/movies, social media (Instagram, TikTok, etc.), and gaming. Lines that rise or fall together across the axis show which kinds of procrastination tend to go along with heavier or lighter AI use. Where lines cluster tightly, a pattern is shared across students. Where they spread out or cross, the relationship is weaker or varies by person.
+
+Hypothesis: 
+Students who use AI for more minutes spend less time procrastinating overall, and certain types of procrastination, such as completing easier assignments, are less likely to use as much AI as others, such as gaming or social media.
+
+Data Cleaning:
+Here I pulled data from multiple different sources. 
+Specifically the survey questions that inquired about different amounts of procrasinations from working on other to assignments to gaming or watching shows. 
+Afterwards, I separated them into different columns and turned the responses into numerical values I could plot on the graphs. 
+I then pulled data from how many minutes of AI used in the last 7 days to create the buckets for in increments of 50 minutes. 
+For the last touch, I added an overall total procrasination column at the end to track overall procrasination. 
+I did additionally remove any responses that either did not answer the survey questions or had minutes of AI use that seemed like outliers (answers over 400 minutes).
+
+
+Analysis:
+We did not find a clear relationship between how much students use AI and how much they procrastinate. 
+The lines for different AI-use groups overlap and cross on every axis, with no group consistently higher or lower. 
+The differences between the highest buckets come from only 3-4 students each, so they are more likely noise than real patterns. 
+What the data does show clearly is that social media is the most common way students procrastinate, regardless of how much they use AI. 
+Additionally students who used more AI were very slightly more likely to report procrastinating. 
+However, there was too small a sample size to make a clear correlation. 
+A larger sample would be needed to rule out a small relationship.
+
+Conclusion: 
+There is no clear relationship between how many minutes students used AI and how they procrastinate. 
+AI usage does not appear to depend on how a student procrastinates, but social media is the dominant procrastination activity across all AI usage levels.
+It does seem that students who used more AI reported more procrastination, but a larger sample size would be best to verify that.
