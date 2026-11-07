@@ -1,0 +1,22 @@
+AI Reducing Stress Relative to Minutes Using AI
+
+Graph Type: 
+Bubble Chart
+
+Description: 
+This bubble chart compares how stressed students are, how many minutes they used AI, and whether they feel AI helped them with stress, with each bubble representing a group of students who gave the same answer to "During this week, AI has helped me feel less stressed/anxious about my coursework" (strongly disagree, disagree, neutral, agree, strongly agree). The graph aims to compare the overall stress students may be feeling and seeing how AI might help reduce that stress. In doing so, students might be more inclined to use AI if it helps them both manage schoolwork and reduce stressful situations.
+Note that Median was used over Mean due to a number of outliers in the data set
+
+Hypothesis: 
+Students who feel that AI helps reduce stress while doing schoolwork are more likely to use AI, and students who are more stressed during the week are more likely to feel that AI helps them. Students who disagree that AI reduces their stress use AI the least.
+
+Analysis:
+53 students answered both the AI-and-stress question and the minutes question. 
+33 of them (62%) agreed or strongly agreed that AI helped them feel less stressed, 15 were neutral, and only 5 disagreed or strongly disagreed. 
+The Agree group (23 students) and Strongly Agree group (10 students) each have a median of 120 minutes of AI use, three times the Neutral group's median of 40 minutes (15 students). 
+This directly shows that students who believed that AI reduced workload stress tended to use it more. 
+Although this might not have been the only factor contributing to the increase of AI usage, there is a strong correlation in the visualization that implies that it could have influenced it.
+
+Conclusion: 
+Students who agree that AI helps them feel less stressed use AI more than students who feel neutral about it. The more a student agrees that AI makes their schoolwork less stressful the more minutes they tend to have using AI. 
+The groups who disagree are too small to draw any sizable conclusions from.
