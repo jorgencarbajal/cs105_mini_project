@@ -1,0 +1,41 @@
+163. [FG] During the past 7 days how much did you experience each of the following, on a scale of 1-5? [Stress about coursework]
+
+165. [FI] When you needed help with the following tasks during the past 7 days, how often did you consult AI without consulting your professor or TA? [Understanding a course concept]
+166. [FJ] When you needed help with the following tasks during the past 7 days, how often did you consult AI without consulting your professor or TA? [Understanding what an assignment is asking]
+167. [FK] When you needed help with the following tasks during the past 7 days, how often did you consult AI without consulting your professor or TA? [Figuring out how to solve a problem]
+
+
+What we suspect
+
+Students were asked how often, in the past week, they went to AI for help without going to their professor or TA, for three things: understanding a course concept, understanding what an assignment is asking, and figuring out how to solve a problem. We compared students who felt very stressed about their coursework with students who felt less stressed. We expect that stressed students are more likely to skip their professor or TA and go straight to AI.
+
+Our analysis
+
+We turned the 3 [FI]-[FK] answers into numbers (Never = 0, Rarely = 1, Sometimes = 2, Often = 3, All the time = 4) and averaged them, so each student gets one score from 0 to 4. Blanks and "Prefer not to answer" were skipped. We then put students into 3 groups: Rarely (score 0-1), Sometimes (above 1, up to 2), and Often (above 2).
+
+For stress, [FG] was on a scale of 1-5. Only 10 students answered 1 or 2, so we split students into Less stressed (1-3) and Very stressed (4-5). 83 students answered both questions: 34 less stressed and 49 very stressed.
+
+Because the two groups are different sizes, each group is scaled to a 10 x 10 grid of 100 squares, so each square is 1% of that group (not one student). This keeps the two grids the same size so they can be compared directly. Squares are sorted Rarely -> Sometimes -> Often (light -> dark blue), so the "Often" students form one dark block. No hypothesis test for this graph, just the plot and a light interpretation.
+
+Findings (percent of each group)
+
+                          Rarely   Sometimes   Often
+- Less stressed (n = 34):   38%       50%       12%    (13, 17, 4 students)
+- Very stressed (n = 49):   14%       35%       51%    (7, 17, 25 students)
+
+Each task on its own (percent who said Often or All the time, less stressed -> very stressed):
+- Understanding a course concept: 26% -> 65%. Biggest gap.
+- Figuring out how to solve a problem: 9% -> 41%.
+- Understanding what an assignment is asking: 12% -> 31%.
+
+Conclusion
+
+When students are stressed, AI replaces their professor or TA as the first place they go for help. Out of every 100 very stressed students, 51 often went to AI first, compared to 12 out of every 100 less stressed students, and the same pattern shows up for every task on its own. From a survey we can't tell which causes which: stressed students might not have time for office hours, or relying on AI might leave students more stressed.
+
+
+How to read the chart (for presenting)
+
+- Two grids, one per stress group. Each grid is 100 squares, each square = 1% of that group.
+- Lighter square = rarely goes to AI instead of the professor/TA, darker = often does.
+- The number under each grid is the headline: 12% vs. 51% often go to AI first.
+- One-line takeaway: "Out of every 100 stressed students, 51 go to AI before their professor. For less stressed students, it's 12."
