@@ -1,0 +1,21 @@
+{
+  "alpha": 0.05,
+  "alternative": "two-sided",
+  "complete_pairs": 83,
+  "excluded_incomplete_responses": 10,
+  "positive_differences": 60,
+  "negative_differences": 2,
+  "zero_differences": 21,
+  "nonzero_pairs": 62,
+  "learning_score_mean": 2.1566265060240966,
+  "trust_skill_score_mean": 0.9939759036144579,
+  "mean_paired_difference": 1.1626506024096386,
+  "median_paired_difference": 1.5,
+  "difference_q1": 0.0,
+  "difference_q3": 2.0,
+  "wilcoxon_statistic": 31.5,
+  "wilcoxon_p_value": 2.680960554745181e-11,
+  "wilcoxon_method": "tie-corrected asymptotic; continuity correction; zero_method=wilcox",
+  "matched_pairs_rank_biserial": 0.967741935483871,
+  "exact_sign_test_p_value": 8.474124180146703e-16
+}
