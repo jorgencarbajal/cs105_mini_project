@@ -18,3 +18,21 @@ After building the AI score we can plot the results. All subplots share the same
 
 ## Mosaic
 
+## Waffle
+
+- The idea is to find out if stress pushes students to go to AI instead of their professor or TA. When students are stressed, do they skip office hours and go straight to AI?
+
+- **Broad Question A**: "During the past 7 days how much did you experience each of the following, on a scale of 1-5?"
+    - Sub question:
+        - "Stress about coursework"; (1 | 2 | 3 | 4 | 5)
+
+- We use this to split students into two "groups": **less stressed** (1-3) and **stressed** (4-5). Only 10 students answered 1 or 2, so 3 had to go with the less stressed group to make it big enough.
+
+- To compare the groups we need to somehow compute an **AI-instead-of-professor score**. There is the **Broad Question B**, "When you needed help with the following tasks during the past 7 days, how often did you consult AI without consulting your professor or TA?", that was followed by 3 subquestions (understanding a course concept | understanding what an assignment is asking | figuring out how to solve a problem) where students could answer (never | rarely | sometimes | often | all the time). The values are 0-4 with never being 0 and all the time being 4. We sum the scores and average to build the score. Then we put each student into a bucket: **Rarely** (0-1), **Sometimes** (above 1, up to 2), and **Often** (above 2).
+
+    - The limitations of this score are that it is built from only 3 subquestions and only looks at the past 7 days, so it is a snapshot of one week. Stress also comes from a single question. We also can't tell which one causes the other, stress could push students to AI, or something else like time management could be causing both.
+
+After building the score we can plot the results. There are two grids, one for the less stressed group and one for the stressed group. The groups are not the same size (34 vs 49 students), so each grid is scaled to 100 squares where each square is 1% of that group, not one student. This way both grids are the same size and can be compared directly. The darker the square, the more often students went to AI instead of their professor/TA, and the squares are sorted light to dark so the "Often" students form one dark block. The idea here is to see if the dark block gets bigger as students get more stressed.
+
+- What we found is that only about 12 out of every 100 less stressed students often go to AI first, while in the stressed group it is 51 out of every 100, about half the grid.
+
